@@ -1,0 +1,42 @@
+{
+  "firstName": "Kris",
+  "lastName": "Hemsford",
+  "paymentSystem": [
+    "government",
+    100000
+  ],
+  "phoneNumbers": [
+    "111-222-3334",
+    "112-223-4445"
+  ],
+  "address": {
+    "streetAddress": "New avenu 23",
+    "city": "Istambul",
+    "postalCode": 105674,
+    "floor": null
+  },
+  "sex": "man",
+  "faculty": {
+    "facultyTitle": "programming",
+    "yearsOfStuding": 1,
+    "receiveScolarship": true
+  },
+  "academicPerformance": [
+    {
+      "class": "computer science",
+      "mark": "good"
+    },
+    {
+      "class": "algorithms",
+      "mark": "very good"
+    },
+    {
+      "class": "logic",
+      "mark": "normal"
+    },
+    {
+      "class":"programming language",
+      "mark": "very good"
+    }
+  ]
+}
